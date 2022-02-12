@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">InformativeApp</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string-array name="weapons_title">
+        <item>KORD</item>
+        <item>M249</item>
+        <item>VECTOR</item>
+        <item>SCAR</item>
+        <item>GROZA</item>
+    </string-array>
+
+    <string-array name="weapons_description">
+        <item>A mighty gun, unleash its true power by squating or proning</item>
+        <item>With a clip size of 100, it\'s amazingly light. Only available in airdrops.</item>
+        <item>The Vector is the first Akimbo weapon in Free Fire, it has a short effective range, but devastating power in close range. “Akimbo” - Players can hold one Vector in each hand.</item>
+        <item>A stable, well balanced rifle that is great for beginners to use.</item>
+        <item>High damage and long-range rifle with great stability. Possibly the strongest rifle Free Fire has ever seen.</item>
+    </string-array>
+
+    <string-array name="vehicles_title">
+        <item>Pickup Truck</item>
+        <item>Monster Truck</item>
+        <item>Amphibious Truck</item>
+        <item>Sports Car</item>
+        <item>Jeep</item>
+    </string-array>
+
+    <string-array name="vehicles_description">
+        <item>The pickup truck is very versatile, with a top speed of 156 km/hr and a minimum capacity of two people. It is a decent choice for players.</item>
+        <item>A monster truck compromises a little on speed. However, it is an excellent choice for uneven terrains on the map. It has a capacity of four people, and can achieve a top speed of 112 km/hr.</item>
+        <item>Amphibious vehicles are unique as they can be used on land and in water, which makes them highly coveted in the game. However, with a capacity of two and a top speed of 100 km/hr, it is the wrong choice when running away from the danger zone.</item>
+        <item>The sports car is the best vehicle in the game, as it has a top speed of 136 km/hr and a capacity of two people. This vehicle is also very durable and can be used to travel faster and safely during matches.</item>
+        <item>A jeep is a heavy vehicle, meaning it is a safe way of travelling around the map. It can withstand severe damage and also be used as a cover during fights.</item>
+    </string-array>
+
+    <string-array name="characters_title">
+        <item>D-bee</item>
+        <item>Maro</item>
+        <item>Xayne</item>
+        <item>Skyler</item>
+        <item>Chrono</item>
+    </string-array>
+
+    <string-array name="characters_description">
+        <item>
+            Sex: male\n
+            Age: 19\n
+            Birthday: Sep 23rd\n\n
+            D-bee has an extrovert personality and very enjoy to meet new poeple. He believes that the meaning of lives is creating, and that\'s the reason why he become a creator. He is also fascinated by dancing and music.
+        </item>
+        <item>
+            Sex: male\n
+            Age: 32\n
+            Birthday: May 23rd\n\n
+            Maro prefers the company of animals over humans.
+            He feels humans often overthink everything and forget about the true meaning of life. He wants to be a free spirit and hopes that he can also help bring other humans closer to nature through his birds.
+        </item>
+        <item>
+            Sex: female\n
+            Age: 23\n
+            Birthday: Apr 21st\n\n
+            Xayne was always interested in more extreme activities even when she was a kid.
+            She prefers the adrenaline rush of xtreme sports instead of human interaction. Free-spirit, she wants to explore life and find its limits. If someone says "you can\'t do something", she will definitely find a way to do it.
+        </item>
+        <item>
+            Sex: male\n
+            Age: 26\n
+            Birthday: Jul 05th\n\n
+            Skyler got his rise to fame as the hottest pop singer-dancer in the country, and he is now the CEO of the largest entertainment company in Vietnam.
+            Driven to be the best musical talent in the business and to also find the best talent. He doesn\'t like to lose and believes that creativity allows people to see the good in the world instead of the bad.
+        </item>
+        <item>
+            Sex: male\n
+            Age: 35\n
+            Birthday: Feb 05th\n\n
+            Chrono comes from a parallel universe where there is a higher science and technological level than the levels in our current world Earth.
+            He had a normal childhood in his original universe. His parents were famous lawyers who fought against poverty and to help bring the poor homeless people up into society. Because of this he always had an awareness about vulnerable groups since he was very young and as he grew older he found ways to do his part to help as well.</item>
+    </string-array>
+
+    <string-array name="resolution">
+        <item>960</item>
+        <item>1280</item>
+        <item>1440</item>
+        <item>1600</item>
+        <item>1920</item>
+        <item>2560</item>
+    </string-array>
+
+    <string-array name="fps">
+        <item>30 FPS</item>
+        <item>40 FPS</item>
+        <item>90 FPS</item>
+        <item>120 FPS</item>
+    </string-array>
+
+    <string-array name="graphics">
+        <item>Smooth</item>
+        <item>Balanced</item>
+        <item>HD</item>
+        <item>HDR</item>
+        <item>Ultra HD</item>
+    </string-array>
+
+    <string-array name="title">
+        <item>Rolls-royce</item>
+        <item>Bugatti</item>
+        <item>Mercedes-Maybach S-Class</item>
+        <item>Bentley Mulsanne</item>
+        <item>Range Rover</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Rolls-Royce Motor Cars Limited is a British luxury automobile maker. Rolls-Royce Motor Cars Limited operates from purpose-built administrative and production facilities opened in 2003 across from the historic Goodwood Circuit in Goodwood, West Sussex, England, United Kingdom. Rolls-Royce Motors Cars Limited is the exclusive manufacturer of Rolls-Royce branded motor cars since 2003.</item>
+        <item>Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories.</item>
+        <item>Mercedes Maybach S-Class has been launched for the European market. It marks the return of the V12 engine in the top model. With the 2021 Maybach S-Class, Mercedes wants to take on rivals like Bentley and Rolls-Royce in the luxury sedan segment.</item>
+        <item>Bentley Mulsanne is a 5 seater Sedan with the last recorded price of ₹ 5.56 . It is available in 1 variant, 1 engine option and 1 transmission option : Automatic. Other key specifications of the Mulsanne include a Kerb Weight of 2485 kg. The Mulsanne is available in 21 colours. The mileage of Mulsanne is 5.91 kmpl.</item>
+        <item>The Land Rover Range Rover (generally known simply as the Range Rover) is a 4x4 motor car produced by Land Rover, a marque and sub-brand of Jaguar Land Rover. The Range Rover line was launched in 1970 by British Leyland and is now in its fourth generation.</item>
+    </string-array>
+</resources>
